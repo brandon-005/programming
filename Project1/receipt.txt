@@ -1,0 +1,14 @@
+
+***********************
+YOUR ORDER NUMBER IS
+        0001
+***********************
+Brandon's Burgers
+105 Page's Walk
+London SE1 4HD
+***********************
+ITEM: Baby Burger
+TOTAL: 5.7
+
+DISCOUNTED PRICE: 4.56
+***********************
